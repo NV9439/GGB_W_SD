@@ -508,5 +508,15 @@
       "controllerid1":"rbxassetid://14489913282",
       "side":1,
       "sideid1":"rbxassetid://14298469553"
+   },
+   {
+      "number":50,
+      "route":"ALB",
+      "front":1,
+      "frontid1":"rbxassetid://15503275499",
+      "controllerid1":"rbxassetid://15503281611",
+      "side":1,
+      "sideid1":"rbxassetid://15503275499"
    }
+]
 ]
